@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Scared Boyfriend.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boyfriend Scared Down0000" x="0" y="0" width="528" height="433" frameX="0" frameY="-2" frameWidth="529" frameHeight="435"/>
+	<SubTexture name="Boyfriend Scared Down0001" x="528" y="0" width="528" height="435" frameX="-1" frameY="0" frameWidth="529" frameHeight="435"/>
+	<SubTexture name="Boyfriend Scared Idle0000" x="1056" y="0" width="538" height="468" frameX="-1" frameY="0" frameWidth="541" frameHeight="468"/>
+	<SubTexture name="Boyfriend Scared Idle0001" x="0" y="468" width="540" height="468" frameX="-1" frameY="0" frameWidth="541" frameHeight="468"/>
+	<SubTexture name="Boyfriend Scared Idle0002" x="540" y="468" width="541" height="468"/>
+	<SubTexture name="Boyfriend Scared Idle0003" x="0" y="468" width="540" height="468" frameX="-1" frameY="0" frameWidth="541" frameHeight="468"/>
+	<SubTexture name="Boyfriend Scared Left0000" x="1081" y="468" width="509" height="469" frameX="0" frameY="0" frameWidth="510" frameHeight="469"/>
+	<SubTexture name="Boyfriend Scared Left0001" x="0" y="937" width="509" height="467" frameX="-1" frameY="-2" frameWidth="510" frameHeight="469"/>
+	<SubTexture name="Boyfriend Scared Right0000" x="509" y="937" width="569" height="462" frameX="-2" frameY="0" frameWidth="571" frameHeight="462"/>
+	<SubTexture name="Boyfriend Scared Right0001" x="1078" y="937" width="571" height="461" frameX="0" frameY="-1" frameWidth="571" frameHeight="462"/>
+	<SubTexture name="Boyfriend Scared Up0000" x="0" y="1404" width="528" height="466"/>
+	<SubTexture name="Boyfriend Scared Up0001" x="528" y="1404" width="528" height="463" frameX="0" frameY="-3" frameWidth="528" frameHeight="466"/>
+</TextureAtlas>

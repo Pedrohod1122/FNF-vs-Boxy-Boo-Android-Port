@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Boyfriend .png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boyfriend Down0000" x="0" y="0" width="526" height="404" frameX="-1" frameY="-4" frameWidth="529" frameHeight="408"/>
+	<SubTexture name="Boyfriend Down0001" x="526" y="0" width="529" height="408"/>
+	<SubTexture name="Boyfriend Idle0000" x="1055" y="0" width="515" height="406" frameX="0" frameY="-39" frameWidth="515" frameHeight="446"/>
+	<SubTexture name="Boyfriend Idle0001" x="1570" y="0" width="496" height="415" frameX="-8" frameY="-30" frameWidth="515" frameHeight="446"/>
+	<SubTexture name="Boyfriend Idle0002" x="2066" y="0" width="504" height="429" frameX="-4" frameY="-17" frameWidth="515" frameHeight="446"/>
+	<SubTexture name="Boyfriend Idle0003" x="2570" y="0" width="509" height="440" frameX="-3" frameY="-6" frameWidth="515" frameHeight="446"/>
+	<SubTexture name="Boyfriend Idle0004" x="3079" y="0" width="509" height="446" frameX="-3" frameY="0" frameWidth="515" frameHeight="446"/>
+	<SubTexture name="Boyfriend Left0000" x="3588" y="0" width="480" height="443" frameX="0" frameY="0" frameWidth="481" frameHeight="443"/>
+	<SubTexture name="Boyfriend Left0001" x="0" y="446" width="475" height="442" frameX="-6" frameY="-1" frameWidth="481" frameHeight="443"/>
+	<SubTexture name="Boyfriend Right0000" x="475" y="446" width="480" height="448" frameX="-2" frameY="0" frameWidth="486" frameHeight="448"/>
+	<SubTexture name="Boyfriend Right0001" x="955" y="446" width="486" height="448"/>
+	<SubTexture name="Boyfriend Up0000" x="1441" y="446" width="494" height="457" frameX="-3" frameY="0" frameWidth="497" frameHeight="457"/>
+	<SubTexture name="Boyfriend Up0001" x="1935" y="446" width="494" height="449" frameX="0" frameY="-8" frameWidth="497" frameHeight="457"/>
+	<SubTexture name="Getting Jumpscared0000" x="2429" y="446" width="482" height="450" frameX="0" frameY="0" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0001" x="2911" y="446" width="482" height="450" frameX="-4" frameY="0" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0002" x="3393" y="446" width="483" height="449" frameX="-7" frameY="-1" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0003" x="0" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0004" x="485" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0005" x="969" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0006" x="1454" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0007" x="0" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0008" x="485" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0009" x="969" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0010" x="1454" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0011" x="0" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0012" x="485" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0013" x="969" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0014" x="1454" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0015" x="0" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0016" x="485" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0017" x="969" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0018" x="1454" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0019" x="0" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0020" x="485" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0021" x="969" y="903" width="485" height="447" frameX="-11" frameY="-3" frameWidth="497" frameHeight="450"/>
+	<SubTexture name="Getting Jumpscared0022" x="1454" y="903" width="484" height="447" frameX="-13" frameY="-3" frameWidth="497" frameHeight="450"/>
+</TextureAtlas>

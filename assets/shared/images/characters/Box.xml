@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Box.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Box Idle0000" x="0" y="0" width="338" height="236"/>
+	<SubTexture name="Box Idle0001" x="338" y="0" width="337" height="236" frameX="-1" frameY="0" frameWidth="338" frameHeight="236"/>
+	<SubTexture name="Box Opening0000" x="675" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0001" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0002" x="1351" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0003" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0004" x="675" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0005" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0006" x="1351" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0007" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0008" x="675" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0009" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0010" x="1351" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0011" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0012" x="675" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0013" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0014" x="1351" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0015" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0016" x="675" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0017" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0018" x="1351" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0019" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0020" x="675" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0021" x="1013" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0022" x="1351" y="0" width="338" height="236" frameX="-99" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0023" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0024" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0025" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0026" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0027" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0028" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0029" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0030" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0031" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0032" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0033" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0034" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0035" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0036" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0037" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0038" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0039" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0040" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0041" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0042" x="1689" y="0" width="338" height="236" frameX="-100" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0043" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0044" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0045" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0046" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0047" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0048" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0049" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0050" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0051" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0052" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0053" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0054" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0055" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0056" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0057" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0058" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0059" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0060" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0061" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0062" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0063" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0064" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0065" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0066" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0067" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0068" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0069" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0070" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0071" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0072" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0073" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0074" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0075" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0076" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0077" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0078" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0079" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0080" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0081" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0082" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0083" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0084" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0085" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0086" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0087" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0088" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0089" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0090" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0091" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0092" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0093" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0094" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0095" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0096" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0097" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0098" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0099" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0100" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0101" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0102" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0103" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0104" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0105" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0106" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0107" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0108" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0109" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0110" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0111" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0112" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0113" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0114" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0115" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0116" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0117" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0118" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0119" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0120" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0121" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0122" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0123" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0124" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0125" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0126" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0127" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0128" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0129" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0130" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0131" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0132" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0133" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0134" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0135" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0136" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0137" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0138" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0139" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0140" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0141" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0142" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0143" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0144" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0145" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0146" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0147" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0148" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0149" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0150" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0151" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0152" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0153" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0154" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0155" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0156" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0157" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0158" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0159" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0160" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0161" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0162" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0163" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0164" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0165" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0166" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0167" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0168" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0169" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0170" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0171" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0172" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0173" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0174" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0175" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0176" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0177" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0178" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0179" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0180" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0181" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0182" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0183" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0184" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0185" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0186" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0187" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0188" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0189" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0190" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0191" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0192" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0193" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0194" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0195" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0196" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0197" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0198" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0199" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0200" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0201" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0202" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0203" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0204" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0205" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0206" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0207" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0208" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0209" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0210" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0211" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0212" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0213" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0214" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0215" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0216" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0217" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0218" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0219" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0220" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0221" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0222" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0223" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0224" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0225" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0226" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0227" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0228" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0229" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0230" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0231" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0232" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0233" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0234" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0235" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0236" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0237" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0238" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0239" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0240" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0241" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0242" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0243" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0244" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0245" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0246" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0247" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0248" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0249" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0250" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0251" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0252" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0253" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0254" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0255" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0256" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0257" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0258" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0259" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0260" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0261" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0262" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0263" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0264" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0265" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0266" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0267" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0268" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0269" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0270" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0271" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0272" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0273" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0274" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0275" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0276" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0277" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0278" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0279" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0280" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0281" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0282" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0283" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0284" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0285" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0286" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0287" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0288" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0289" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0290" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0291" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0292" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0293" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0294" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0295" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0296" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0297" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0298" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0299" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0300" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0301" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0302" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0303" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0304" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0305" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0306" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0307" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0308" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0309" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0310" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0311" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0312" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0313" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0314" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0315" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0316" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0317" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0318" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0319" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0320" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0321" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0322" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0323" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0324" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0325" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0326" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0327" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0328" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0329" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0330" x="2027" y="0" width="355" height="236" frameX="-83" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0331" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0332" x="2382" y="0" width="389" height="236" frameX="-49" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0333" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0334" x="2771" y="0" width="425" height="236" frameX="-13" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0335" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0336" x="3196" y="0" width="434" height="236" frameX="-4" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0337" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0338" x="3630" y="0" width="430" height="236" frameX="-8" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0339" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0340" x="0" y="236" width="437" height="238" frameX="-1" frameY="-56" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0341" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0342" x="437" y="236" width="438" height="263" frameX="0" frameY="-31" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0343" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0344" x="875" y="236" width="407" height="294" frameX="-31" frameY="0" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0345" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0346" x="1282" y="236" width="355" height="280" frameX="-83" frameY="-14" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0347" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0348" x="1637" y="236" width="329" height="252" frameX="-109" frameY="-42" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0349" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Box Opening0350" x="1966" y="236" width="314" height="236" frameX="-124" frameY="-58" frameWidth="438" frameHeight="294"/>
+	<SubTexture name="Boxy Boo Jumpscare0000" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0001" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0002" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0003" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0004" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0005" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0006" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0007" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0008" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0009" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0010" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0011" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0012" x="2280" y="236" width="338" height="236" frameX="-108" frameY="-748" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0013" x="2618" y="236" width="338" height="371" frameX="-108" frameY="-613" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0014" x="2956" y="236" width="382" height="372" frameX="-64" frameY="-612" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0015" x="3338" y="236" width="446" height="328" frameX="0" frameY="-656" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0016" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0017" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0018" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0019" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0020" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0021" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0022" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0023" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0024" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0025" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0026" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0027" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0028" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0029" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0030" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0031" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0032" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0033" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0034" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0035" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0036" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0037" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0038" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0039" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0040" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0041" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0042" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0043" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0044" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0045" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0046" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0047" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0048" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0049" x="0" y="608" width="434" height="253" frameX="-12" frameY="-731" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0050" x="434" y="608" width="434" height="547" frameX="-12" frameY="-437" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0051" x="868" y="608" width="1009" height="881" frameX="-12" frameY="-103" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0052" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0053" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0054" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0055" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0056" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0057" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0058" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0059" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0060" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0061" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0062" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0063" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0064" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0065" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0066" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0067" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0068" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0069" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0070" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0071" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0072" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0073" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0074" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0075" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0076" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0077" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0078" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0079" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0080" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0081" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0082" x="1877" y="608" width="1429" height="963" frameX="-23" frameY="-21" frameWidth="1452" frameHeight="984"/>
+	<SubTexture name="Boxy Boo Jumpscare0083" x="0" y="1571" width="1420" height="984" frameX="-14" frameY="0" frameWidth="1452" frameHeight="984"/>
+</TextureAtlas>

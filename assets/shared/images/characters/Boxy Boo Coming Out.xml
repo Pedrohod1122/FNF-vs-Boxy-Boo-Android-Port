@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Boxy Boo Coming Out.png">
+<SubTexture name="Boxy Boo Coming Out0000" x="5469" y="0" width="1331" height="981" frameX="-275" frameY="-471" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0001" x="5469" y="981" width="1219" height="971" frameX="-275" frameY="-481" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0002" x="3380" y="5482" width="1157" height="929" frameX="-275" frameY="-523" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0003" x="2230" y="5482" width="1150" height="933" frameX="-275" frameY="-519" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0004" x="1089" y="5482" width="1141" height="939" frameX="-275" frameY="-513" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0005" x="5469" y="2917" width="1114" height="958" frameX="-275" frameY="-494" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0006" x="2830" y="1630" width="1106" height="958" frameX="-275" frameY="-494" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0007" x="0" y="4524" width="1101" height="958" frameX="-275" frameY="-494" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0008" x="1101" y="4524" width="1095" height="958" frameX="-275" frameY="-494" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0009" x="0" y="5482" width="1089" height="951" frameX="-275" frameY="-501" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0010" x="2196" y="4524" width="1063" height="957" frameX="-273" frameY="-495" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0011" x="3259" y="4524" width="1053" height="957" frameX="-270" frameY="-495" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0012" x="4312" y="4524" width="1060" height="957" frameX="-272" frameY="-495" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0013" x="5372" y="4524" width="1100" height="957" frameX="-244" frameY="-495" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0014" x="5469" y="1952" width="1248" height="965" frameX="-116" frameY="-495" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0015" x="1284" y="3203" width="1261" height="1127" frameX="-152" frameY="-507" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0016" x="2545" y="3203" width="1261" height="1115" frameX="-152" frameY="-519" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0017" x="3806" y="3203" width="1288" height="1098" frameX="-155" frameY="-536" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0018" x="0" y="3203" width="1284" height="1321" frameX="-155" frameY="-310" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0019" x="2641" y="0" width="1388" height="1573" frameX="-155" frameY="-60" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0020" x="0" y="1630" width="1405" height="1573" frameX="-156" frameY="-60" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0021" x="1405" y="1630" width="1425" height="1573" frameX="-158" frameY="-60" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0022" x="4029" y="0" width="1440" height="1573" frameX="-159" frameY="-60" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0023" x="4029" y="1573" width="1434" height="1573" frameX="-159" frameY="-60" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0024" x="1307" y="0" width="1334" height="1629" frameX="-160" frameY="-4" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0025" x="0" y="0" width="1307" height="1630" frameX="-163" frameY="-3" frameWidth="1662" frameHeight="1634" />
+<SubTexture name="Boxy Boo Coming Out0026" x="5469" y="0" width="1331" height="981" frameX="-275" frameY="-471" frameWidth="1662" frameHeight="1634" />
+</TextureAtlas>

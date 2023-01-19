@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Boyfriend Scared Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				1
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "Boyfriend Scared Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "Boyfriend Scared Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "Boyfriend Scared Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-6
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "Boyfriend Scared Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Scared Boyfriend",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		850,
+		-490
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

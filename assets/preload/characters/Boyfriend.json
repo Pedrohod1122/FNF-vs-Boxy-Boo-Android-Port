@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Boyfriend Idle"
+		},
+		{
+			"offsets": [
+				-6,
+				-3
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boyfriend Left"
+		},
+		{
+			"offsets": [
+				-4,
+				-32
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boyfriend Down"
+		},
+		{
+			"offsets": [
+				-46,
+				12
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boyfriend Up"
+		},
+		{
+			"offsets": [
+				-41,
+				2
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boyfriend Right"
+		},
+		{
+			"offsets": [
+				-53,
+				3
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "hey",
+			"indices": [],
+			"name": "Getting Jumpscared"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boyfriend",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf-gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		830,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

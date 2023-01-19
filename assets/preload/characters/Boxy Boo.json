@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "Boxy Boo Idle"
+		},
+		{
+			"offsets": [
+				788,
+				361
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boxy Boo Left"
+		},
+		{
+			"offsets": [
+				65,
+				-112
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boxy Boo Down"
+		},
+		{
+			"offsets": [
+				425,
+				696
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boxy Boo Up"
+		},
+		{
+			"offsets": [
+				39,
+				-32
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boxy Boo Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Boxy Boo",
+	"position": [
+		170,
+		-430
+	],
+	"healthicon": "boxy-boo",
+	"flip_x": false,
+	"healthbar_colors": [
+		235,
+		44,
+		92
+	],
+	"camera_position": [
+		180,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

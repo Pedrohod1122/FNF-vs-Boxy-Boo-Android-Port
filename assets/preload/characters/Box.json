@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Box Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				58
+			],
+			"anim": "hey",
+			"fps": 14,
+			"name": "Box Opening",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				103,
+				749
+			],
+			"anim": "attack",
+			"fps": 14,
+			"name": "Boxy Boo Jumpscare",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Box",
+	"position": [
+		290,
+		540
+	],
+	"healthicon": "box",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		153,
+		197
+	],
+	"camera_position": [
+		430,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,2 @@
+Gives health everytime its  called, useful for giving someone health at a certain part
+Value 1 : How much health, half health is 1.
